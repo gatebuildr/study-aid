@@ -1,0 +1,26 @@
+Types of Questions and their properties
+
+Short Answer or Fill-in-the-Blank Question
++Question
++Answer (one word)
+
+Multiple Choice Question
++Question
++Answers[]
++AnswerIndex
+
+Matching Question
+-derivative of short answer question that acts like  multiple choice question
++Question
++Answers[]
++AnswerIndex
+
+Table Question
+-holds a table of information and can ask short-answer or multiple-choice questions about different rows and columns
++EntryInfo[] [[is an array of column headings]]
++QuestionOptions[] [[is a list of types of questions that can be asked of this table, and provides text for forming these questions.  Questions may also have short-answer or multiple-choice enabled]]
+++QuestionVariable
+++AnswerVariable
+++QuestionText
+++ShortAnswer
+++MultipleChoice

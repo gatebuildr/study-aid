@@ -1,0 +1,8 @@
+State	Capital	Nickname	Motto
+California	Sacramento	The Golden State	Eureka
+Alaska	Juneau	The Last Frontier	North to the Future
+Texas	Austin	The Lone Star State	Friendship
+Oklahoma	Oklahoma City	Sooner State	Labor omnia vincit
+Arkansas	Little Rock	The Natural State	The Land of Opportunity
+Virginia	Richmond	Old Dominion	Sic semper tyrannis
+New York	Albany	The Empire State	Excelsior
